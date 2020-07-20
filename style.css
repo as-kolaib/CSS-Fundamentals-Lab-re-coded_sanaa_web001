@@ -5,7 +5,10 @@ body {
 }
 header{
   text-align: center;
-
+}
+header nav a {
+  background-color: #bbbbbb;
+  padding:  0 10px;
 }
 .center{
    display: block;
