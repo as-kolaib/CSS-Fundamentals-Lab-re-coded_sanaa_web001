@@ -3,10 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
-h1 ,p {
+header{
   text-align: center;
 }
-img{
-  align-content: center;
 
-}
